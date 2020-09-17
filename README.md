@@ -3,3 +3,7 @@
 ```
 $ npm install
 ```
+## Start app
+```
+$ node app/server
+```
